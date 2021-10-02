@@ -6,8 +6,17 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=219ad5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=react)
+![NodeJs](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=node)
+![Express](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=mongodb)
+![Webpack](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=webpack)
+![GraphQL](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=graphql)
+![Python](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=django)
 
 Follow Me
