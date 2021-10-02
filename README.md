@@ -19,4 +19,15 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3872A7)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=2BA977)
 
-Follow Me
+### Contacts
+
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/saroyangor)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](http://t.me/docthor69)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/docthor/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/saroyangor.98/)
+[![Vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/docthor69)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/SaroyanGor)
+
+### Statistics
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=docthorhorus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
