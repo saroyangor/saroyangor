@@ -19,6 +19,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=graphql&logoColor=E831A7)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3872A7)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=2BA977)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=832291)
 
 ### Contacts
 
