@@ -24,6 +24,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/saroyangor)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](http://t.me/docthor69)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/docthor/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=2ED34D)](https://wa.me/+37494963676)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/saroyangor.98/)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/docthor69)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/SaroyanGor)
