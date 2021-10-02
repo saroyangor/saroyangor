@@ -14,6 +14,7 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=F7DF1E)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=graphql&logoColor=E831A7)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3872A7)
