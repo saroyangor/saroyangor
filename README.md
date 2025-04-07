@@ -1,5 +1,3 @@
-![Header](https://github.com/saroyangor/saroyangor/blob/main/assets/header.png)
-
 ## I’m a web developer from Armenia focused on crafting great web experiences. Coding have been my passion since the days I started working with computers but I found myself into web development since 2019. I enjoy creating beautifully designed, intuitive and functional websites.
 
 ### Languages and Tools
@@ -9,16 +7,19 @@
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=F7DF1E)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
+![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=nextdotjs)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
+![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
-![GraphQL](https://img.shields.io/badge/-GraphQL-090909?style=for-the-badge&logo=graphql&logoColor=E831A7)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3872A7)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=2BA977)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=apachekafka)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=832291)
 
 ### Contacts
@@ -29,7 +30,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=whatsapp&logoColor=2ED34D)](https://wa.me/+37494963676)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/saroyangor.98/)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/docthor69)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/SaroyanGor)
+[![X](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=x)](https://twitter.com/SaroyanGor)
 
 ### Statistics
 
